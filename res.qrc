@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon/desktop_pet.png</file>
+        <file>images/appearance/outfit_layouts.json</file>
+        <file>images/appearance/templates/cat_pajama_template.json</file>
+        <file>images/appearance/stand_sets/mid_autumn_complete.png</file>
+        <file>images/appearance/stand_sets/bunny_pajama_complete.png</file>
+        <file>images/appearance/stand_sets/cat_pajama_complete.png</file>
+        <file>images/appearance/stand_blink/mid_autumn_half.png</file>
+        <file>images/appearance/stand_blink/mid_autumn_closed.png</file>
+        <file>images/appearance/stand_blink/bunny_pajama_half.png</file>
+        <file>images/appearance/stand_blink/bunny_pajama_closed.png</file>
+        <file>images/appearance/stand_blink/cat_pajama_half.png</file>
+        <file>images/appearance/stand_blink/cat_pajama_closed.png</file>
+        <file>images/appearance/stand_expressions/mid_autumn_happy.png</file>
+        <file>images/appearance/stand_expressions/mid_autumn_surprised.png</file>
+        <file>images/appearance/stand_expressions/mid_autumn_sleepy.png</file>
+        <file>images/appearance/stand_expressions/bunny_pajama_happy.png</file>
+        <file>images/appearance/stand_expressions/bunny_pajama_surprised.png</file>
+        <file>images/appearance/stand_expressions/bunny_pajama_sleepy.png</file>
+        <file>images/appearance/stand_expressions/cat_pajama_happy.png</file>
+        <file>images/appearance/stand_expressions/cat_pajama_surprised.png</file>
+        <file>images/appearance/stand_expressions/cat_pajama_sleepy.png</file>
+        <file>images/appearance/reading_expressions/mid_autumn_open.png</file>
+        <file>images/appearance/reading_expressions/mid_autumn_half.png</file>
+        <file>images/appearance/reading_expressions/mid_autumn_closed.png</file>
+        <file>images/appearance/reading_expressions/bunny_pajama_open.png</file>
+        <file>images/appearance/reading_expressions/bunny_pajama_half.png</file>
+        <file>images/appearance/reading_expressions/bunny_pajama_closed.png</file>
+        <file>images/appearance/reading_expressions/cat_pajama_open.png</file>
+        <file>images/appearance/reading_expressions/cat_pajama_half.png</file>
+        <file>images/appearance/reading_expressions/cat_pajama_closed.png</file>
+    </qresource>
+</RCC>

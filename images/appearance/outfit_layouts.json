@@ -1,0 +1,36 @@
+{
+  "anchors": {
+    "canvas": [250, 250], "head": [250, 105], "face": [250, 170],
+    "neck": [250, 225], "body": [250, 290], "waist": [250, 340],
+    "leftHand": [170, 315], "rightHand": [330, 315], "feet": [250, 425], "back": [250, 270]
+  },
+  "outfits": {
+    "cat_pajama": {
+      "01": {"anchor": "body", "z": 20}, "02": {"anchor": "body", "z": 40},
+      "03": {"anchor": "waist", "z": 30}, "04": {"anchor": "head", "z": 60},
+      "05": {"anchor": "feet", "z": 25}, "06": {"anchor": "leftHand", "z": 70},
+      "07": {"anchor": "head", "z": 60}, "08": {"anchor": "back", "z": 10},
+      "09": {"anchor": "rightHand", "z": 70}, "10": {"anchor": "leftHand", "z": 70},
+      "11": {"anchor": "canvas", "z": 90}, "12": {"anchor": "face", "z": 80},
+      "13": {"anchor": "head", "z": 50}
+    },
+    "mid_autumn": {
+      "01": {"anchor": "body", "z": 20}, "02": {"anchor": "body", "z": 40},
+      "03": {"anchor": "waist", "z": 30}, "04": {"anchor": "head", "z": 60},
+      "05": {"anchor": "feet", "z": 25}, "06": {"anchor": "leftHand", "z": 70},
+      "07": {"anchor": "head", "z": 60}, "08": {"anchor": "rightHand", "z": 70},
+      "09": {"anchor": "leftHand", "z": 70}, "10": {"anchor": "back", "z": 10},
+      "11": {"anchor": "canvas", "z": 90}, "12": {"anchor": "face", "z": 80},
+      "13": {"anchor": "head", "z": 50}
+    },
+    "pajama_bunny": {
+      "01": {"anchor": "body", "z": 20}, "02": {"anchor": "body", "z": 40},
+      "03": {"anchor": "waist", "z": 30}, "04": {"anchor": "head", "z": 60},
+      "05": {"anchor": "feet", "z": 25}, "06": {"anchor": "leftHand", "z": 70},
+      "07": {"anchor": "head", "z": 60}, "08": {"anchor": "face", "z": 60},
+      "09": {"anchor": "leftHand", "z": 70}, "10": {"anchor": "back", "z": 10},
+      "11": {"anchor": "head", "z": 60}, "12": {"anchor": "face", "z": 80},
+      "13": {"anchor": "head", "z": 50}
+    }
+  }
+}

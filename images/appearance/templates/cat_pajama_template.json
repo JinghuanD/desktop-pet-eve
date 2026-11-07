@@ -1,0 +1,51 @@
+{
+  "templateId": "eve_cat_pajama_final_v1",
+  "description": "Eve 猫咪睡衣最终版。新套装复制本文件后，仅替换 file 与 id；完整画布素材维持 mode=canvas。",
+  "canvas": { "width": 500, "height": 500 },
+  "anchors": {
+    "head": [250, 105],
+    "face": [250, 170],
+    "neck": [250, 225],
+    "body": [250, 290],
+    "waist": [250, 340],
+    "leftHand": [170, 315],
+    "rightHand": [330, 315],
+    "feet": [250, 425],
+    "back": [250, 270]
+  },
+  "layers": [
+    {
+      "id": "body", "file": "01_body_base.png", "mode": "canvas",
+      "anchor": "body", "offset": [0, 0], "scale": 0.77, "z": 20
+    },
+    {
+      "id": "shoes", "file": "05_cat_slippers.png", "mode": "canvas",
+      "anchor": "feet", "offset": [1, 25], "scale": 0.72, "z": 25
+    },
+    {
+      "id": "bottom", "file": "03_pajama_bottom.png", "mode": "canvas",
+      "anchor": "waist", "offset": [0, 11], "scale": 0.77, "z": 30
+    },
+    {
+      "id": "top", "file": "02_pajama_top.png", "mode": "canvas",
+      "anchor": "body", "offset": [0, -16], "scale": 1.00, "z": 40
+    },
+    {
+      "id": "hair", "file": "13_hair.png", "mode": "canvas",
+      "anchor": "head", "offset": [5, -24], "scale": 0.75, "z": 50
+    },
+    {
+      "id": "hat", "file": "04_cat_hat.png", "mode": "canvas",
+      "anchor": "head", "offset": [-1, 14], "scale": 0.91, "z": 60
+    },
+    {
+      "id": "face", "file": "12_face.png", "mode": "canvas",
+      "anchor": "face", "offset": [0, -7], "scale": 0.72, "z": 80
+    }
+  ],
+  "zGuide": {
+    "backEffect": 0, "backAccessory": 10, "body": 20, "shoes": 25,
+    "bottom": 30, "top": 40, "hair": 50, "headAccessory": 60,
+    "handAccessory": 70, "face": 80, "frontEffect": 90
+  }
+}

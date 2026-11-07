@@ -1,0 +1,21 @@
+# Qt Creator user and generated build files
+*.pro.user*
+build-*/
+debug/
+release/
+Makefile*
+object_script.*
+
+# Local backups and editor files
+*.autosave
+.vscode/
+
+# Local runtime data
+file.ini
+*.db
+*.sqlite
+
+# Windows artifacts
+*.exe
+*.pdb
+*.ilk
