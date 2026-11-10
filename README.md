@@ -30,11 +30,3 @@ The USDA lookup requires a free FoodData Central API key. Store it locally as an
 ```
 
 Restart Eve after adding or changing the key.
-
-## Build from source
-
-1. Install **Qt 5.14.2** with a MinGW kit.
-2. Open `Lynn.pro` in Qt Creator.
-3. Select a Qt 5.14.2 MinGW build kit and build the project.
-
-The output application target is `Eve`.

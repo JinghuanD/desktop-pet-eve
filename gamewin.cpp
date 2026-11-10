@@ -404,7 +404,7 @@ void GameWin::refreshHardwareStatus()
 bool GameWin::isGameCandidate(const QString &executableName)
 {
     static const QSet<QString> excluded = {
-        "explorer.exe", "eve.exe", "lynn.exe", "code.exe", "devenv.exe", "cmd.exe",
+        "explorer.exe", "eve.exe", "code.exe", "devenv.exe", "cmd.exe",
         "powershell.exe", "windowsterminal.exe", "chrome.exe", "msedge.exe",
         "firefox.exe", "discord.exe", "steam.exe", "steamwebhelper.exe"
     };

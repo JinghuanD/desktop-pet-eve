@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>Lynn</class>
- <widget class="QMainWindow" name="Lynn">
+ <class>EveMenu</class>
+ <widget class="QMainWindow" name="EveMenu">
   <property name="geometry">
    <rect>
     <x>0</x>
